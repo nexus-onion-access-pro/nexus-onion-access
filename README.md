@@ -6,9 +6,9 @@ If you're looking for secure and anonymous access to the darknet, **Nexus Onion 
 
 **Nexus Onion Access** refers to using a verified .onion URL to visit the Nexus Darknet Market through the Tor browser. This method ensures both anonymity and security while browsing and transacting within the darknet marketplace. The .onion domain is specific to the Tor network, which routes your connection through various layers of encryption to conceal your identity and IP address.
 
-[<img src="/output/graph.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/output/graph.webp" width="200">](http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion)
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/output/idle.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/output/idle.webp" alt="image" style="max-width: 100%;"></a>
 
 
 ## Why Choose Nexus for Darknet Transactions?
@@ -37,9 +37,9 @@ While Tor provides anonymous browsing, combining it with a reliable VPN enhances
 
 ### 3. Locate the Official Nexus Onion Link
 
-Always verify the latest official Nexus .onion address through trusted darknet forums or communities. Beware of phishing sites pretending to be Nexus. Official Nexus link http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
+Always verify the latest official Nexus .onion address through trusted darknet forums or communities. Beware of phishing sites pretending to be Nexus. Official Nexus link http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion
 
-**Official Nexus Onion Link:** http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
+**Official Nexus Onion Link:** http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion
 
 ### 4. Create a Secure Account
 
@@ -64,5 +64,7 @@ For darknet users who prioritize privacy, security, and ease of use, **Nexus Oni
 
 *Disclaimer: This guide is for educational purposes only. Accessing or using darknet markets for illegal activity is against the law. Always stay informed and practice ethical internet usage.*
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/output/mono.webp" style="max-width: 100%;"></a>
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/output/shortcut.webp" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/output/mono.webp" style="max-width: 100%;"></a>
+<a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/output/shortcut.webp" style="max-width: 100%;"></a>
+
+Update:  14 September url is back up and live
