@@ -67,4 +67,6 @@ For darknet users who prioritize privacy, security, and ease of use, **Nexus Oni
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/output/mono.webp" style="max-width: 100%;"></a>
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/output/shortcut.webp" style="max-width: 100%;"></a>
 
-Update:  14 September url is back up and live
+
+
+Update:  18 September 2025 url is back up and accessible
